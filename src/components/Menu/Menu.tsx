@@ -1,8 +1,7 @@
-
 import { NavLink } from "react-router-dom";
 import { Triangle } from "../../assets/PicList";
 
-import { MENULIST, EXPLORE } from "./MenuList";
+import { MENULIST } from "./MenuList";
 import Tools from "./Tools";
 
 const Menu = () => {

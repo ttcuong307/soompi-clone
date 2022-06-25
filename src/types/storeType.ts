@@ -6,3 +6,7 @@ export type stateUserType = {
   isLoading: boolean,
   error?: string,
 }
+
+export type generalType ={
+  isDark: boolean
+}

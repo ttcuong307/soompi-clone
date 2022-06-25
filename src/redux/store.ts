@@ -1,9 +1,7 @@
 import { AnyAction, configureStore } from "@reduxjs/toolkit";
 import { TypedUseSelectorHook, useDispatch, useSelector } from 'react-redux';
-import thunk, { ThunkAction, ThunkDispatch } from "redux-thunk";
-import thunkMiddleware  from "redux-thunk";
+import thunkMiddleware, { ThunkAction, ThunkDispatch } from "redux-thunk";
 import { rootReducer } from "./rootReducer";
-
 
 const store = configureStore({
   reducer: rootReducer,

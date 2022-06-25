@@ -1,10 +1,14 @@
 
 import BannerPic from './pictures/banner.png'
 import Logo from './pictures/logo.svg';
+import LogoWhite from './pictures/logo-white.svg';
 import Triangle from './triangle.png';
 import Search from './search.svg';
+import SearchWhite from './search-white.svg';
 import Moon from './moon.svg';
+import MoonBlue from './moon-blue.svg';
 import Person from './Person.svg';
+import PersonWhite from './Person-white.svg';
 import Person1 from './Person1.svg';
 import quiz1 from './pictures/quiz1.png'
 import quiz2 from './pictures/quiz2.png'
@@ -19,10 +23,14 @@ import quiz9 from './pictures/quiz9.png'
 export {
   BannerPic,
   Logo,
+  LogoWhite,
   Triangle,
   Search,
+  SearchWhite,
   Moon,
+  MoonBlue,
   Person,
+  PersonWhite,
   Person1,
   quiz1,
   quiz2,
